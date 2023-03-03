@@ -1,4 +1,4 @@
-Minnesota COVID Report Results
+Minnesota COVID Report Outputs
 ================
 
 Report last run: 2023-03-03 21:42:42
