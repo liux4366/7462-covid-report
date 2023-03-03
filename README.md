@@ -81,10 +81,9 @@ rate_data %>%
   mutate(state = fct_reorder(factor(state), -rate_last, median, na.rm = TRUE)) %>%
   ggplot(aes(x = rate_last, y = state)) +
   geom_boxplot() +
-  xlim(c(0,500)) +
+  xlim(c(0,600)) +
   xlab("7-day COVID-19 total cases per 100,000 people") +
   ylab(NULL) +
-  theme_minimal() +
   ggtitle("Distribution of county-level COVID-19 case rates, by state",
           subtitle = paste("Latest data:", max(rate_data$date)))
 ```
