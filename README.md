@@ -1,7 +1,7 @@
 Minnesota COVID Reports
 ================
 
-Report last run: 2023-03-06 05:41:51
+Report last run: 2023-03-08 05:41:12
 
 ## Introduction
 
@@ -105,25 +105,25 @@ rate_data %>%
   knitr::kable()
 ```
 
-| county     | state          |     pop | covid_rate |
-|:-----------|:---------------|--------:|-----------:|
-| Loving     | Texas          |     169 |       2367 |
-| Washington | Mississippi    |   43909 |       1043 |
-| Clark      | Kansas         |    1994 |        802 |
-| Menominee  | Wisconsin      |    4556 |        724 |
-| Neshoba    | Mississippi    |   29118 |        611 |
-| Rawlins    | Kansas         |    2530 |        593 |
-| Rolette    | North Dakota   |   14176 |        578 |
-| Humphreys  | Mississippi    |    8064 |        570 |
-| Traverse   | Minnesota      |    3259 |        552 |
-| Dorchester | South Carolina |  162809 |        527 |
-| Keweenaw   | Michigan       |    2116 |        520 |
-| Lawrence   | Mississippi    |   12586 |        509 |
-| Miami-Dade | Florida        | 2716940 |        508 |
-| Jackson    | Florida        |   46414 |        489 |
-| Madison    | Mississippi    |  106272 |        472 |
-| Walthall   | Mississippi    |   14286 |        469 |
-| Gadsden    | Florida        |   45660 |        466 |
-| Hamilton   | Nebraska       |    9324 |        461 |
-| Franklin   | Mississippi    |    7713 |        454 |
-| Concho     | Texas          |    2726 |        440 |
+| county             | state        |     pop | covid_rate |
+|:-------------------|:-------------|--------:|-----------:|
+| Loving             | Texas        |     169 |       2367 |
+| Clark              | Kansas       |    1994 |        802 |
+| Rawlins            | Kansas       |    2530 |        593 |
+| Rolette            | North Dakota |   14176 |        578 |
+| Union              | Kentucky     |   14381 |        570 |
+| Traverse           | Minnesota    |    3259 |        552 |
+| Miami-Dade         | Florida      | 2716940 |        508 |
+| Bethel Census Area | Alaska       |   18386 |        506 |
+| Jackson            | Florida      |   46414 |        489 |
+| Gadsden            | Florida      |   45660 |        466 |
+| Hamilton           | Nebraska     |    9324 |        461 |
+| Concho             | Texas        |    2726 |        440 |
+| Menominee          | Wisconsin    |    4556 |        439 |
+| Oglala Lakota      | South Dakota |   14177 |        423 |
+| Petroleum          | Montana      |     487 |        411 |
+| Sargent            | North Dakota |    3898 |        410 |
+| Lemhi              | Idaho        |    8027 |        399 |
+| Pawnee             | Kansas       |    6414 |        390 |
+| Todd               | South Dakota |   10177 |        383 |
+| Suwannee           | Florida      |   44417 |        374 |
