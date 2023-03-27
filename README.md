@@ -1,7 +1,7 @@
 Minnesota COVID Reports
 ================
 
-Report last run: 2023-03-22 05:40:22
+Report last run: 2023-03-27 05:40:55
 
 ## Introduction
 
@@ -105,25 +105,25 @@ rate_data %>%
   knitr::kable()
 ```
 
-| county       | state |     pop | covid_rate |
-|:-------------|:------|--------:|-----------:|
-| Delta        | Texas |    5331 |     147102 |
-| Frio         | Texas |   20306 |       6259 |
-| Denton       | Texas |  887207 |       4848 |
-| Loving       | Texas |     169 |       4142 |
-| Jones        | Texas |   20083 |       3934 |
-| Hudspeth     | Texas |    4886 |       3909 |
-| Crockett     | Texas |    3464 |       3695 |
-| Jasper       | Texas |   35529 |       3090 |
-| San Patricio | Texas |   66730 |       3069 |
-| Walker       | Texas |   72971 |       2894 |
-| Schleicher   | Texas |    2793 |       2542 |
-| Goliad       | Texas |    7658 |       2468 |
-| Crane        | Texas |    4797 |       2376 |
-| Comal        | Texas |  156209 |       2144 |
-| Deaf Smith   | Texas |   18546 |       2092 |
-| Victoria     | Texas |   92084 |       2045 |
-| Maverick     | Texas |   58722 |       2020 |
-| Childress    | Texas |    7306 |       1848 |
-| Terrell      | Texas |     776 |       1804 |
-| Travis       | Texas | 1273954 |       1789 |
+| county                   | state         |   pop | covid_rate |
+|:-------------------------|:--------------|------:|-----------:|
+| Major                    | Oklahoma      |  7629 |      10067 |
+| McIntosh                 | Oklahoma      | 19596 |       4241 |
+| Hansford                 | Texas         |  5399 |        704 |
+| Cimarron                 | Oklahoma      |  2137 |        702 |
+| Latimer                  | Oklahoma      | 10073 |        536 |
+| Harmon                   | Oklahoma      |  2653 |        528 |
+| Pecos                    | Texas         | 15823 |        487 |
+| Douglas                  | South Dakota  |  2921 |        479 |
+| Yoakum                   | Texas         |  8713 |        448 |
+| Haskell                  | Oklahoma      | 12627 |        443 |
+| Northwest Arctic Borough | Alaska        |  7621 |        420 |
+| Dewey                    | South Dakota  |  5892 |        390 |
+| Menifee                  | Kentucky      |  6489 |        385 |
+| Hyde                     | South Dakota  |  1301 |        384 |
+| Barnes                   | North Dakota  | 10415 |        384 |
+| Wirt                     | West Virginia |  5821 |        378 |
+| St. Croix                | Wisconsin     | 90687 |        371 |
+| Thurston                 | Nebraska      |  7224 |        360 |
+| Bethel Census Area       | Alaska        | 18386 |        354 |
+| Dewey                    | Oklahoma      |  4891 |        348 |
