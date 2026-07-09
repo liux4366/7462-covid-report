@@ -1,5 +1,5 @@
 ---
-title: "Minnesota COVID Reports"
+title: "Minnesota COVID-19 Reports"
 format: gfm
 execute: 
   eval: true
